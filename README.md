@@ -27,7 +27,7 @@ name it is invoked by. Run multiple processes simultaneously and coordinate them
 **Lab 7:** The basics of multi-threading in a programming language that supports the monitor concept of concurrency control.
   * Works properly
   
-**Lab 8:** Implemet a basic Semaphore in Java.
+**Lab 8:** Implement a basic Semaphore in Java.
   * The code failed to pass all test cases
   
 **Lab 9:** The Dining Philosophers Project. The main objectives are learning deadlock and the dining philosophers. It also includes dolving deadlock with semaphores (Java).
