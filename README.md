@@ -1,6 +1,6 @@
 # COE628 Labs
 
-The following below is a quick rundown of the problems od the codes
+The following below is a list of problems of the code
 
 Lab 1:
   * Works properly
