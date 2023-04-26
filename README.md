@@ -1,1 +1,1 @@
-# COE628
+# COE628 Labs
